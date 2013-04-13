@@ -1,5 +1,7 @@
 steal(
     './controllers/controllers',
 	'./models/models',
-	'./fixtures/fixtures'
+	'./fixtures/fixtures',
+    './views/views.js',
+    './public/public.js'
 )
